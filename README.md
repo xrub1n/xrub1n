@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a project that allows pet owners to connect with humanitarian societies so that they may form a mutualist relationship.**
 
-- 🌱 I’m currently learning **how to write code to control a Cortex-M4**
+- 🌱 I’m currently learning **how to write code to control an ARM Cortex-M4**
 
 - 📫 How to reach me **jrubingarcia1@gmail.com**
 
