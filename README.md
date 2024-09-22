@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **how to write code to control an ARM Cortex-M4**
 
-- 📫 How to reach me **jrubingarcia1@gmail.com**
+- 📫 How to reach me: **jrubingarcia1@gmail.com**
 
 <h3 align="left"></h3>
 <p align="left">
