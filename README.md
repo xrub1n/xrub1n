@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joshua Rubin-Garcia</h1>
 <h3 align="center">A Software Engineering student at Rochester Institute of Technology</h3>
 
-- 🔭 I’m currently working on **TellMeAJoke - A website for finding and sharing jokes**
+- 🔭 I’m currently working on **ScoreTrack, a website where users can create groups and track the score of any game they can imagine. I am doing this project to expand my knowledge in C# and utilizing .NET for the first time.**
 
-- 🌱 I’m currently learning **how to create an app**
+- 🌱 I’m currently learning **how to create a mobile app**
 
 - 📫 How to reach me **jrubingarcia1@gmail.com**
 
